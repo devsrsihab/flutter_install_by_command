@@ -12,9 +12,11 @@
 
 #### 6. It will be downloading DART SDK file
 
-#### 7. After this install Flutter by this command: flutter create project_name
+#### 7. After download the DART SDK, close the powershall and re-open
 
-#### 8. Done
+#### 8. No install Flutter by this command: flutter create project_name
+
+#### 9. Done
 
 
 
