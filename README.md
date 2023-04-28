@@ -6,11 +6,21 @@
 
 #### 3. Go Here - Setting > System >find setting > (write:-system enviroment) > Edit the system Enviroment Variable >  Enviroment Variables > System Variables > Path > New > (Past here the flutter bin path) > Ok  > Ok > Ok
 
-#### 4. Go to the path where you have clone the flutter sdk like: E:\Dart\sdk
+#### 4. After This open powershall from main folder, click The main folder, This time my folder name is sdk, and hold shift+right click the mouse, the select 'Open Powershall window here' option
 
-#### 5. Run This command - flutter
+#### 5. now run here this command- flutter
 
-#### 6. Run This command - flutter create project_name
+#### 6. It will be downloading DART SDK file
+
+#### 7. After this install Flutter by- flutter create project_name
+
+#### 8. Done
+
+
+
+
+
+
 
 
 
