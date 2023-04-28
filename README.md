@@ -8,7 +8,7 @@
 
 #### 4. After This open powershall from main folder, click The main folder, This time my folder name is sdk, and hold shift+right click the mouse, the select 'Open Powershall window here' option
 
-#### 5. now run here this command: flutter
+#### 5. now run here this or any command: flutter
 
 #### 6. It will be downloading DART SDK file
 
